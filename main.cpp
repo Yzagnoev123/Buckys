@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    int b = 1;
+    int b = 5;
     int c = 2;
     int * a = &b;
     int *d = &c;
